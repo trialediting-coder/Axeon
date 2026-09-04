@@ -1,0 +1,7 @@
+{
+  "name": "Axeon",
+  "description": "Axeon Builds YOUR Digital Presence. We build design and systems that work for every business here in Des Moines, Iowa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
